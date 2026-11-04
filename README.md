@@ -1,6 +1,6 @@
 # To-Do List Application 📝
 
-An interactive daily task management application built using core web technologies as part of the learning journey at Twaqeet/Tuwaiq Academy. The application allows users to organize their tasks, track their completion status, and save them locally in the browser[cite: 1].
+An interactive daily task management application built using core web technologies as part of the learning journey at tarmeez Academy. The application allows users to organize their tasks, track their completion status, and save them locally in the browser.
 
 ---
 
