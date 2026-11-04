@@ -6,21 +6,21 @@ An interactive daily task management application built using core web technologi
 
 ## 🚀 Key Features
 
-* **Add Tasks:** Ability to add new tasks with their creation date automatically recorded[cite: 1].
-* **Edit Tasks:** Ability to modify the title or text of any previously added task[cite: 1].
-* **Complete Tasks:** Mark tasks as completed (updating their color and status) or unmark them[cite: 1].
-* **Delete Tasks:** Remove tasks you no longer need with a confirmation prompt[cite: 1].
-* **Local Storage:** All tasks are saved in the browser's local storage (`LocalStorage`) to ensure data is not lost when refreshing the page[cite: 1].
+* **Add Tasks:** Ability to add new tasks with their creation date automatically recorded.
+* **Edit Tasks:** Ability to modify the title or text of any previously added task.
+* **Complete Tasks:** Mark tasks as completed (updating their color and status) or unmark them.
+* **Delete Tasks:** Remove tasks you no longer need with a confirmation prompt.
+* **Local Storage:** All tasks are saved in the browser's local storage (`LocalStorage`) to ensure data is not lost when refreshing the page.
 
 ---
 
 ## 🛠️ Technologies Used
 
-* **HTML5** - For structuring the web page[cite: 1].
-* **CSS3** - For styling interfaces, button designs, and visual effects[cite: 1].
-* **JavaScript (Vanilla JS)** - For handling DOM manipulation, events, and data storage[cite: 1].
+* **HTML5** - For structuring the web page.
+* **CSS3** - For styling interfaces, button designs, and visual effects.
+* **JavaScript (Vanilla JS)** - For handling DOM manipulation, events, and data storage.
 * **Google Material Symbols** - For interactive icons.
-* **Google Fonts (Caveat)** - For custom typography[cite: 1].
+* **Google Fonts (Caveat)** - For custom typography.
 
 ---
 
@@ -36,8 +36,8 @@ You can try the application directly through the following Netlify link:
 If you want to run the project on your personal computer:
 
 1. Clone or download the repository.
-2. Open the `index.html` file using any web browser [like Google Chrome](cite: 1).
+2. Open the `index.html` file using any web browser [like Google Chrome].
 3. Enjoy using the application!
 
 ---
-> This project was built to practice and apply the fundamentals of Frontend Web Development[cite: 1].
+> This project was built to practice and apply the fundamentals of Frontend Web Development.
