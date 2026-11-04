@@ -27,7 +27,7 @@ An interactive daily task management application built using core web technologi
 ## 🌐 Live Demo
 
 You can try the application directly through the following Netlify link:
-👉 [Live Demo on Netlify][https://cheery-youtiao-510844.netlify.app](cite: 1)
+👉 [Live Demo on Netlify](https://cheery-youtiao-510844.netlify.app)
 
 ---
 
